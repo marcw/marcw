@@ -1,0 +1,19 @@
+name: Update README with latest blog posts
+
+on:
+  schedule:
+    - cron: "0 */6 * * *"
+  workflow_dispatch:
+
+jobs:
+  update-readme:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - uses: actions/checkout@v4
+      - uses: jdx/mise-action@v2
+      - run: ruby update_readme.rb
+      - uses: stefanzweifel/git-auto-commit-action@v5
+        with:
+          commit_message: "Update README with latest blog posts"
