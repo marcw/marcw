@@ -38,6 +38,6 @@ Sponsor](https://github.com/sponsors/marcw) or [Patreon](https://patreon.com/mar
 
 [![Website](https://img.shields.io/badge/Website-black?style=flat-square)](https://harmonique.one)
 [![Shop](https://img.shields.io/badge/Shop-black?style=flat-square)](https://shop.harmonique.one)
-[![Instagram](https://img.shields.io/badge/-marc.in.space-E1306C?style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/marc.in.space/)
-[![LinkedIn](https://img.shields.io/badge/-Marc_Weistroff-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/marcweistroff/)
-[![GitHub](https://img.shields.io/badge/-Follow-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/marcw)
+[![Instagram](https://img.shields.io/badge/-Instagram-E1306C?style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/marc.in.space/)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/marcweistroff/)
+[![GitHub](https://img.shields.io/badge/-Follow_On_GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/marcw)
